@@ -3,7 +3,6 @@
 
 Для установки:
 1) `git clone https://github.com/mikebreeze/coworking-scrpt.git`
-2) `composer install`
 
 использованные технологии:
 * `PHP Imap` (https://github.com/barbushin/php-imap)
